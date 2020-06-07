@@ -1,0 +1,58 @@
+Project #8 - Submission form
+
+Please fill in this form and submit it with your project #8.
+
+Enter no more than 5 user stories that you did for the assignment that you would like to be
+graded on. For each story include the following information:
+
+Story number and name: 1 - Extend user profile detail with usage
+Story points: 3
+Brief description to see the story in action: The most recent photo with time and most popular photo 
+with the number of comments are shown in the user detail page. Click on the photos will navigate to
+the photo's detail view of the user. User with no photo or no comments is also indicated as
+"The user has no photo yet." or "The user has no top commented photo."
+
+Story number and name: 2 - @mentions in comments
+Story points: 6
+Brief description to see the story in action: By typing @ in the comment area, a list of exist users
+will appear and you can mention any number of them. After submission, the photo and owner will appear
+on the user detail page of the mentioned user and the photo and owner button will navigate to the photo
+and the owner of the photo. User never mentioned is also indicated as "Nobody mentioned the user."
+
+Story number and name: 8 - Sidebar list marks users with new activity
+Story points: 3
+Brief description to see the story in action: The latest activity of user will appear in the user list
+below the name. Add a comment and click "submit" will immediately change the activity to "Added a comment".
+Log in and log out are also indicated. Click "CHoose File" on the top bar, choose a valid photo and click
+"add photo" button, the thumbnail and indication will appear below the user.
+
+Total Story Points: 12
+
+Marketing Video URL (ensure permissions are set to public viewing): https://www.youtube.com/watch?v=4IeqLcAufCY&feature=youtu.be
+
+Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+
+Any special instructions for Grading (should be easy to run app from new machine): When uploading
+the file, the video only captured the website so didn't show the procedure when I selected the photo
+and opened it so it looks like the photo suddenly appeared.
+
+
+************************************ Example *******************
+* As an example for if you did only story 5 your file would look like:
+* 
+* Story number and name:  5 - Activity Feed
+* Story points:  4
+* Brief description to see the story in action:
+* Push the button labeled Activity on the toolbar and view the 10 most recent activities of the
+* current user.
+* 
+* Total Story Points: 4
+* 
+* Marketing Video URL (ensure permissions are set to public viewing): http://www.youtube.com ---
+* 
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+* 
+* Instructions for Grading (should be easy to run app from new machine): None
+
+
+

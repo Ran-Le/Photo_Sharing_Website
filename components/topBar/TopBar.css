@@ -1,0 +1,24 @@
+.cs142-topbar-appBar {
+  height: 60;
+  justify-content: 'center';
+}
+
+.version {
+	position: absolute;
+	left: 120px;
+}
+
+.info {
+	position: absolute;
+	right: 100px;
+}
+
+.login {
+	position: absolute;
+	left: 300px;
+}
+
+.logoutButton {
+	position: absolute;
+	left: 500px;
+}
